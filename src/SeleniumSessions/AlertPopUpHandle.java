@@ -30,6 +30,7 @@ public class AlertPopUpHandle {
 		}
 		else{
 			System.out.println("in-correct alert messg");
+			System.out.println("Changes by Rekha");
 		}
 		
 		alert.accept(); //click on OK btn
